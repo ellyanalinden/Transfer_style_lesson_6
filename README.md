@@ -13,7 +13,7 @@ CNN image style transfer using picture of an octopus as the content and picture 
 * PyTorch Framework
 
 ## Result
-![transfer_style_exercise](https://user-images.githubusercontent.com/39072490/53904803-2c5f4a00-4004-11e9-91e1-76c81d6406a8.png)
+![transfer_style_exercise](https://user-images.githubusercontent.com/39072490/53904957-91b33b00-4004-11e9-87b5-acc09eac0e56.jpg)
 
 ## References
 * Udacity Deep Learning Nanodegree Program
